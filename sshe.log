@@ -1,0 +1,15 @@
+[INFO][2014-07-12 20:22:56,110][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@115426ec: startup date [Sat Jul 12 20:22:56 CST 2014]; root of context hierarchy
+[INFO][2014-07-12 20:22:56,167][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring.xml]
+[INFO][2014-07-12 20:22:56,556][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [config.properties]
+[INFO][2014-07-12 20:22:56,560][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO][2014-07-12 20:22:56,581][sy.service.impl.UserServiceImpl]agdsbdgeg
+[INFO][2014-07-13 17:23:09,448][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7a043387: startup date [Sun Jul 13 17:23:09 CST 2014]; root of context hierarchy
+[INFO][2014-07-13 17:23:09,569][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring.xml]
+[INFO][2014-07-13 17:23:10,503][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [config.properties]
+[INFO][2014-07-13 17:23:10,507][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO][2014-07-13 17:23:10,619][sy.service.impl.UserServiceImpl]agdsbdgeg
+[INFO][2014-07-13 17:51:01,794][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@29d322a6: startup date [Sun Jul 13 17:51:01 CST 2014]; root of context hierarchy
+[INFO][2014-07-13 17:51:01,846][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring.xml]
+[INFO][2014-07-13 17:51:02,161][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [config.properties]
+[INFO][2014-07-13 17:51:02,165][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO][2014-07-13 17:51:02,184][sy.service.impl.UserServiceImpl]úy‘áúy‘á
